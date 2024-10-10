@@ -1,0 +1,4 @@
+/**app.wxss**/
+page {
+  background: -webkit-linear-gradient(top,#8ac36e,#ddeec3,white);
+}
